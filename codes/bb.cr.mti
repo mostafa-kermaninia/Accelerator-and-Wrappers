@@ -1,0 +1,113 @@
+{D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/register.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/register.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register
+
+Top level modules:
+	register
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/register18.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/register18.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module register18
+
+Top level modules:
+	register18
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/wrapperTB.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/wrapperTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module wrapperTB
+
+Top level modules:
+	wrapperTB
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/exponential.v} {1 {vlog -work work -stats=none {D:\uni\semester 4\Mad_Man\LAB4\ExpAccCodes\exponential.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponential
+
+Top level modules:
+	exponential
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/multiplier.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/multiplier.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module multiplier
+
+Top level modules:
+	multiplier
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/Counter.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/Counter.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module counter
+
+Top level modules:
+	counter
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/mux2to1.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/mux2to1.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2to1
+
+Top level modules:
+	mux2to1
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/LUTExp.v} {1 {vlog -work work -stats=none {D:\uni\semester 4\Mad_Man\LAB4\ExpAccCodes\LUTExp.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module LUT
+
+Top level modules:
+	LUT
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/ui_Reg.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/ui_Reg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ui_Reg
+
+Top level modules:
+	ui_Reg
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/ExpTB.v} {1 {vlog -work work -stats=none {D:\uni\semester 4\Mad_Man\LAB4\ExpAccCodes\ExpTB.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module exponentialTB
+
+Top level modules:
+	exponentialTB
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/Controller.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/Controller.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module controller
+
+Top level modules:
+	controller
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/ShiftReg.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/ShiftReg.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ShiftReg
+
+Top level modules:
+	ShiftReg
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/Datapath.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/Datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module datapath
+
+Top level modules:
+	datapath
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/CombShift.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/CombShift.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module CombShift
+
+Top level modules:
+	CombShift
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/adder.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+
+Top level modules:
+	adder
+
+} {} {}} {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/concat.v} {1 {vlog -work work -stats=none {D:/uni/semester 4/Mad_Man/LAB4/ExpAccCodes/concat.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module concat
+
+Top level modules:
+	concat
+
+} {} {}}
